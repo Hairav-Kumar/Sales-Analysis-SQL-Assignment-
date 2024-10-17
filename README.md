@@ -1,6 +1,6 @@
 # Sales-Analysis-SQL-Assignment-
 Assignment Overview:
-This Assignment demonstrates a comprehensive analysis of sales data using SQL queries in MySQL. The goal of the project is to perform data analysis and extract valuable insights from sales transactions.
+This Assignment demonstrates a comprehensive analysis of sales data using SQL queries in MySQL. The goal of the Assignment is to perform data analysis and extract valuable insights from sales transactions.
 I’ve applied SQL window functions, aggregation, ranking, and filtering techniques to solve intermediate and advanced-level analytical questions that reflect real-world business scenarios.
 
 Key Objectives:
